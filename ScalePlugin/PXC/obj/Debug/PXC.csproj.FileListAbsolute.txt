@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\PXC\PXC\obj\Debug\PXC.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PXC\PXC\bin\Debug\PXC.dll
+C:\Users\Administrator\Desktop\PXC\PXC\bin\Debug\PXC.pdb
+C:\Users\Administrator\Desktop\PXC\PXC\bin\Debug\PEPlugin.dll
+C:\Users\Administrator\Desktop\PXC\PXC\bin\Debug\SlimDX.dll
+C:\Users\Administrator\Desktop\PXC\PXC\obj\Debug\PXC.dll
+C:\Users\Administrator\Desktop\PXC\PXC\obj\Debug\PXC.pdb
+C:\Users\Administrator\Desktop\ScalePlugin\PXC\bin\Debug\PEPlugin.dll
+C:\Users\Administrator\Desktop\ScalePlugin\PXC\bin\Debug\SlimDX.dll
+C:\Users\Administrator\Desktop\ScalePlugin\PXC\obj\Debug\PXC.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ScalePlugin\PXC\bin\Debug\Scale.dll
+C:\Users\Administrator\Desktop\ScalePlugin\PXC\bin\Debug\Scale.pdb
+C:\Users\Administrator\Desktop\ScalePlugin\PXC\obj\Debug\Scale.dll
+C:\Users\Administrator\Desktop\ScalePlugin\PXC\obj\Debug\Scale.pdb
